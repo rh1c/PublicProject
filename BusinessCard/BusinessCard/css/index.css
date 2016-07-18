@@ -1,0 +1,82 @@
+/* this CSS is not part of the widget, it is here just as an example of the demo page styling.... Don't copy this one, roll your own. One
+ * of the key things about the widget is that it allows you to do your own styling!
+ */
+
+body {
+	margin-top: 20px;
+}
+.bodyBackground
+{
+    background-image: url("../images/bg.png");
+    background-repeat: repeat;
+}
+
+.bodyNoBackground
+{
+    background-image: none;
+}
+
+ #container{
+ float:center;
+ }
+#editor {
+}
+#voiceBtn {
+  width: 20px;
+  color: transparent;
+  background-color: transparent;
+  transform: scale(2.0, 2.0);
+  -webkit-transform: scale(2.0, 2.0);
+  -moz-transform: scale(2.0, 2.0);
+  border: transparent;
+  cursor: pointer;
+  box-shadow: none;
+  -webkit-box-shadow: none;
+}
+
+div[data-role="editor-toolbar"] {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.dropdown-menu a {
+  cursor: pointer;
+}
+
+#popOverContent {
+display: none;
+}
+
+.BClayout{
+border: 1.5px solid #73AD21;
+width: 500px;
+height:270px;
+background-image:url("../images/bg2.jpg");
+border-radius: 0.5px;
+padding: 20px;
+}
+
+#h1pagetitle{
+align:center;
+}
+
+p{
+font-size:20px;
+}
+
+.divButton
+{
+    margin: 20px;
+}
+
+.container
+{
+    width:550px;
+}
+
+.hide
+{
+    display: none;
+}

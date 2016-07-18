@@ -1,0 +1,10 @@
+D:\Projects\Frany\Source\BusinessCard\BusinessCard\bin\BusinessCard.dll
+D:\Projects\Frany\Source\BusinessCard\BusinessCard\bin\BusinessCard.pdb
+D:\Projects\Frany\Source\BusinessCard\BusinessCard\obj\Debug\BusinessCard.csprojResolveAssemblyReference.cache
+D:\Projects\Frany\Source\BusinessCard\BusinessCard\obj\Debug\BusinessCard.dll
+D:\Projects\Frany\Source\BusinessCard\BusinessCard\obj\Debug\BusinessCard.pdb
+D:\Projects\Frany\Source\BusinessCard\BusinessCard\bin\Select.HtmlToPdf.dll
+D:\Projects\Frany\Source\BusinessCard\BusinessCard\bin\Select.Html.dep
+D:\Projects\Frany\Source\BusinessCard\BusinessCard\bin\HtmlAgilityPack.dll
+D:\Projects\Frany\Source\BusinessCard\BusinessCard\bin\HtmlAgilityPack.pdb
+D:\Projects\Frany\Source\BusinessCard\BusinessCard\bin\HtmlAgilityPack.xml
