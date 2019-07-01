@@ -84,7 +84,7 @@
 			      <input type="text" data-edit="inserttext" id="voiceBtn" x-webkit-speech="">
 			    </div>
 
-			 
+			 <!--test comment-->
 			
 		    <!--JS for rich text-->
 		    <script>
